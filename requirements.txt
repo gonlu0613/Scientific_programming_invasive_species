@@ -1,0 +1,3 @@
+This project was conducted using python version 3.10.16
+Libraries required are: pandas; numpy; seaborn; matplotlib; pathlib; the whole sci-kit learn suite; scipy;
+xgboost; optuna and shap. 
